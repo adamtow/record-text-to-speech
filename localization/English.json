@@ -1,0 +1,21 @@
+{
+	"English": {
+		"alert_end": "\n1. Tap the red Screen Recording icon in the status bar.\n\n2. Tap Stop to end the recording.\n\n3. Tap OK to display a menu of options for your recording.",
+		"alert_end_title": "Stop Screen Recording",
+		"alert_start": "\n1. Activate Screen Recording from Control Center. Ensure the microphone is turned off so your {{device}} does not record any background noise.\n\n2. Tap OK and choose the language of the inputted text.\n\n3. Wait for the red Screen Recording icon to appear in the status bar before tapping Done.",
+		"alert_start_title": "Start Screen Recording",
+		"error_media_404": "The recording could not be found. Did you forget to:\n\n 1. Start the screen recording?\n\n2. Stop the screen recording?",
+		"error_media_404_title": "Recording Not Found",
+		"menu_exit": "Exit",
+		"menu_play": "Play",
+		"menu_quicklook": "Quick Look…",
+		"menu_record": "Record Again…",
+		"menu_save": "Save Audio…",
+		"menu_trim": "Trim Audio…",
+		"menu_update": "Check for Updates…",
+		"prompt_filename": "Enter a filename",
+		"updatekit_install": "Install UpdateKit",
+		"updatekit_later": "Install Later",
+		"updatekit_uptodate": "You are running the latest version of Record Text to Speech.",
+	}
+}
