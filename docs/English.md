@@ -193,6 +193,8 @@ You can also invoke Record Text to Speech from other shortcuts by supplying it w
 ## Settings
 Tap Settings from the Home screen to edit Record Text to Speech's settings.
 
+![Record Text to Speech Settings](https://adamtow.github.io/record-text-to-speech/images/settings.png)
+
 - **Show All Recordings at Startup**: Display all recordings when Record Text to Speech starts up. By default, the shortcut will display the last 10 recordings.
 - **Display Hints**: Show instructions before displaying the Speak Text action dialog.
 - **Check for Updates Automatically**: Check for updates when Record Text to Speech launches.
