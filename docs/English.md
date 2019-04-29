@@ -52,6 +52,8 @@ To access Control Center, swipe up from the Home Button if your iOS device has a
 
 The Screen Recording Icon looks like a circle with a solid white filled circle in the middle. 
 
+![Control Center with Screen Recording](https://adamtow.github.io/record-text-to-speech/images/control-center.png)
+
 ***
 
 <span id="getting-started"></span>
