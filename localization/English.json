@@ -55,6 +55,6 @@
 		"prompt_main": "Record Text to Speech",
 		"prompt_text": "Enter the text you want to have spoken.",
 		"prompt_update": "An update for Record Text to Speech is available",
-		"prompt_welcome": "Record Text to Speech works with the Screen Recording feature of iOS to capture high-quality audio of Siri speaking aloud your inputted text."
+		"prompt_welcome": "Record Text to Speech works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking aloud your inputted text."
 	}
 }
