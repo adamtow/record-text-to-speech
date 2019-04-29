@@ -96,7 +96,7 @@ Record Text to Speech works best when you can easily access Screen Recording fro
 
 To access Control Center, swipe up from the Home Button if your iOS device has a Home button. Otherwise, swipe down from the top-left of the screen, usually where the battery indicator is located. 
 
-The Screen Recording Icon looks like a circle with a solid white filled circle in the middle. 
+The Screen Recording Icon looks like a circle with a solid white filled circle in the middle. When recording, the circle will turn red, and a red pill-shaped button will appear in the iOS status bar.
 
 ![Control Center with Screen Recording](https://adamtow.github.io/record-text-to-speech/images/control-center.png)
 
@@ -110,18 +110,18 @@ Let's create your first text to speech recording.
 
 1. From the Record Text to Speech home screen, tap **New Recording…**.
 2. Enter the text you want to have spoken.
-3. If Display Hints is enabled, instructions will appear on screen. Tap OK to dismiss the alert.
+3. If Display Hints is enabled, instructions will appear on screen. Tap **OK** to dismiss the alert.
 4. Choose the language of your inputted text. ![Activating Screen Recording](https://adamtow.github.io/record-text-to-speech/images/new-recording-2.png)
-5. Activate Screen Recording from Control Center.
+5. Activate **Screen Recording** from Control Center.
 6. Wait three seconds until the red Screen Recording icon appears in the status bar of your iOS device.
-7. Tap Done.
+7. Tap **Done**.
 8. Shortcuts will now speak your text.
 9. When Shortcuts has finished speaking, additional instructions will appear in an alert.
-10. Tap the red Screen Recording icon in the status bar. 
-11. Tap Stop to stop the screen recording. Wait for the notification from iOS that the recording has been saved to Photos before proceeding to the next step. 
-12. Tap OK to dismiss the instructional alert.
+10. Tap the **red Screen Recording icon** in the status bar. 
+11. Tap **Stop** to stop the screen recording. Wait for the notification from iOS that the recording has been saved to Photos before proceeding to the next step. 
+12. Tap **OK** to dismiss the instructional alert.
 
-Next, a menu will appear with the following commands to perform on the text to speech recording:
+Next, a menu will appear with the following commands to perform on the text to speech recording. The screenshot below shows the screens that appears when you choose the **Save Audio** command.
 
 ![Options menu after recording](https://adamtow.github.io/record-text-to-speech/images/new-recording-3.png)
 
@@ -129,11 +129,10 @@ Next, a menu will appear with the following commands to perform on the text to s
 - **Quick Look**: Display a Quick Look interface for the audio recording.
 - **Trim Audio**: Display an editing window so you can trim the beginning and end of the audio clip.
 - **Record Again**: Discard the current recording and re-enter the text to be spoken and recorded.
-- **Save Audio**: Save the current audio recording to the Record Text to Speech folder in `iCloud Drive/Shortcuts`.
+- **Save Audio**: Save the current audio recording to the Record Text to Speech folder in `iCloud Drive/Shortcuts`. This command will prompt you to enter a filename for the audio recording. Newlines, tabs, periods, quotes, colors, and semicolons are not allowed in the filename.
 - **Don't Save**: Discard the current recording and return to the Record Text to Speech Home screen.
 
-In the cases of Record Again, Save Audio, and Don't Save, Photos will prompt you to delete the Screen Recording that was recorded. Files are saved in the `iCloud Drive/Shortcuts/Record Text to Speech` folder, so you don't need the screen recording in Photos anymore.
-
+When you choose the Record Again, Save Audio, and Don't Save commands, the Photos apps will prompt you to delete the Screen Recording that was just recorded. Files are saved in the `iCloud Drive/Shortcuts/Record Text to Speech` folder, so you don't need the screen recording in Photos anymore.
 
 ***
 
@@ -148,6 +147,8 @@ When you open to the Record Text to Speech Home screen, you're presented with th
 - **Help**: Display the documentation you are reading now.
 - **Settings**: Adjust settings for the shortcut.
 
+![Record Text to Speech Home](https://adamtow.github.io/record-text-to-speech/images/home.png)
+
 ***
 
 <span id="editing-recordings"></span>
@@ -155,7 +156,7 @@ When you open to the Record Text to Speech Home screen, you're presented with th
 Tap on a recording from the Recode Text to Speech Home screen to edit it.
 
 - **Play**: Play the audio recording.
-- **Quick Look**: Display a Quick Look interface for the audio recording.
+- **Quick Look**: Display a Quick Look interface for the audio recording. You can then tap the Share button to send the audio recording via text message, email, etc.
 - **Trim Audio**: Display an editing window so you can trim the beginning and end of the audio clip.
 - **Delete Audio**: Delete the current audio recording from the `iCloud Drive/Shortcuts/Record Text to Speech` folder.
 - **Back**: Returns to the Return Text to Speech Home screen.
@@ -164,7 +165,7 @@ Tap on a recording from the Recode Text to Speech Home screen to edit it.
 
 <span id="sharing"></span> 
 ## Share Menu
-You can run the Record Text to Speech shortcut from the Share Menu on Text and Rich Text in one of two ways:
+In addition to running Record Text to Speech from the Shortcuts Home screen, you can access it from the Share Menu on Text and Rich Text in one of two ways:
 
 ### Selected Text
 
@@ -195,7 +196,7 @@ Tap Settings from the Home screen to edit Record Text to Speech's settings.
 - **Show All Recordings at Startup**: Display all recordings when Record Text to Speech starts up. By default, the shortcut will display the last 10 recordings.
 - **Display Hints**: Show instructions before displaying the Speak Text action dialog.
 - **Check for Updates Automatically**: Check for updates when Record Text to Speech launches.
-- **Number of Recordings to Display**: If Show All Recordings at Startup is disabled, this preference allows you to set the number of recent recordings that will be displayed T launch. 
+- **Number of Recordings to Display**: If Show All Recordings at Startup is disabled, this preference allows you to set the number of recent recordings that will be displayed at launch. 
 - **Check for Updates**: Manually check for updates to the shortcut.
 - **Change Language**: Change the language for the shortcut.
 - **Back to Home**: Return to the Record Text to Speech Home screen.
@@ -236,7 +237,7 @@ When the localization file is complete, either submit a pull request on [my GitH
 ## Version History
 
 - 1.0.0: Released April 26, 2019. Initial release.
-- 2.0.0: Released April 28, 2019. Rewrote using App Framework and using Screen Recording.
+- 2.0.0: Released April 29, 2019. Rewrote using App Framework and Screen Recording.
 
 ***
 
