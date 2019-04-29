@@ -231,7 +231,7 @@ Record Text to Speech is available in English, but the application is fully read
 
 > [**Download Localization Helper from RoutineHub &raquo;**](https://routinehub.co/shortcut/1931)
 
-When the localization file is complete, either submit a pull request on [my GitHub page](https://github.com/adamtow/).
+- When the localization file is complete, submit a pull request on [the Record Text to Speech GitHub page](https://github.com/adamtow/record-text-to-speech).
 
 ***
 
