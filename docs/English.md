@@ -85,6 +85,8 @@ Download the latest version from RoutineHub.co:
 ### Adding Screen Recording to Control Center
 Record Text to Speech works best when you can easily access Screen Recording from Control Center. If Screen Recording is not in your Control Center, perform the following steps to add it:
 
+![Adding Screen Recording to Control Center](https://adamtow.github.io/record-text-to-speech/images/add-screen-recording-control-center.png)
+
 1. From the iOS Home Screen, tap **Settings**.
 2. Tap **Control Center**.
 3. Tap **Customize Controls**.
