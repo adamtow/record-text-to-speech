@@ -3,6 +3,8 @@ Record Text to Speech works with the Screen Recording feature of iOS to capture 
 
 > [**Download Record Text to Speech from RoutineHub &raquo;**](https://routineHub.co/shortcut/2506)
 
+![Record Text to Speech](https://adamtow.github.io/record-text-to-speech/images/home.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -104,10 +106,15 @@ The Screen Recording Icon looks like a circle with a solid white filled circle i
 ## Creating Your Text to Speech Recording
 Let's create your first text to speech recording.
 
+![Creating a new text to speech recording](https://adamtow.github.io/record-text-to-speech/images/new-recording-1.png)
+
 1. From the Record Text to Speech home screen, tap **New Recording…**.
 2. Enter the text you want to have spoken.
 3. If Display Hints is enabled, instructions will appear on screen. Tap OK to dismiss the alert.
 4. Choose the language of your inputted text.
+
+![Activating Screen Recording](https://adamtow.github.io/record-text-to-speech/images/new-recording-2.png)
+
 5. Activate Screen Recording from Control Center.
 6. Wait three seconds until the red Screen Recording icon appears in the status bar of your iOS device.
 7. Tap Done.
@@ -118,6 +125,8 @@ Let's create your first text to speech recording.
 12. Tap OK to dismiss the instructional alert.
 
 Next, a menu will appear with the following commands to perform on the text to speech recording:
+
+![Options menu after recording](https://adamtow.github.io/record-text-to-speech/images/new-recording-3.png)
 
 - **Play**: Play the audio recording.
 - **Quick Look**: Display a Quick Look interface for the audio recording.
