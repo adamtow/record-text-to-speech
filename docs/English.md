@@ -111,10 +111,7 @@ Let's create your first text to speech recording.
 1. From the Record Text to Speech home screen, tap **New Recording…**.
 2. Enter the text you want to have spoken.
 3. If Display Hints is enabled, instructions will appear on screen. Tap OK to dismiss the alert.
-4. Choose the language of your inputted text.
-
-![Activating Screen Recording](https://adamtow.github.io/record-text-to-speech/images/new-recording-2.png)
-
+4. Choose the language of your inputted text. ![Activating Screen Recording](https://adamtow.github.io/record-text-to-speech/images/new-recording-2.png)
 5. Activate Screen Recording from Control Center.
 6. Wait three seconds until the red Screen Recording icon appears in the status bar of your iOS device.
 7. Tap Done.
