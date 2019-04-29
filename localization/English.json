@@ -1,10 +1,12 @@
 {
 	"English": {
-		"alert_about": "Make audio recordings of Siri reading aloud your text.",
-		"alert_end": "\n1. Tap the red Screen Recording icon in the status bar.\n\n2. Tap Stop to end the recording.\n\n3. Tap OK to display a menu of options for your recording.",
+		"alert_about": "A shortcut that works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking aloud your inputted text.",
+		"alert_end": "\n1. Tap the red Screen Recording icon in the status bar.\n\n2. Tap Stop to end the recording.\n\n3. Wait for the notification that the screen recording has been saved to Photos.\n\n4. Tap OK to display a menu of options for your recording.",
 		"alert_end_title": "Stop Screen Recording",
 		"alert_start": "\n1. Tap OK and choose the language of the inputted text.\n\n2. Activate Screen Recording from Control Center. Ensure the microphone is turned off so your {{device}} does not record any background noise.\n\n3. Wait for the red Screen Recording icon to appear in the status bar before tapping Done.",
 		"alert_start_title": "Start Screen Recording",
+		"alert_screen_recording": "Record Text to Speech works best when you can access Screen Recording from Control Center.\n\nPerform the following steps to add Screen Recording to Control Center:\n\n1. From the iOS Home Screen, tap Settings.\n\n2. Tap Control Center.\n\n3. Tap Customize Controls.\n\n4. Tap + next to Screen Recording.",
+		"alert_screen_recording_title": "Is Screen Recording Enabled in Control Center?",
 		"alert_update_none": "You are running the latest version of Record Text to Speech",
 		"alert_update_none_title": "No Update Available",
 		"error_media_404": "The recording could not be found. Did you forget to:\n\n 1. Start the screen recording?\n\n2. Stop the screen recording?",
@@ -46,13 +48,11 @@
 		"menu_update_cancel": "Don't Update",
 		"menu_welcome_docs": "View Documentation…",
 		"menu_welcome_home": "Record Text to Speech Home…",
+		"menu_welcome_new": "New Recording…",
 		"prompt_filename": "Enter a filename",
 		"prompt_main": "Record Text to Speech",
 		"prompt_text": "Enter the text you want to have spoken.",
 		"prompt_update": "An update for Record Text to Speech is available",
-		"prompt_welcome": "Record Siri reading aloud your text with Record Text to Speech and Screen Recording.",
-		"updatekit_install": "Install UpdateKit",
-		"updatekit_later": "Install Later",
-		"updatekit_uptodate": "You are running the latest version of Record Text to Speech.",
+		"prompt_welcome": "Record Text to Speech works with the Screen Recording feature of iOS to capture high-quality audio of Siri speaking aloud your inputted text."
 	}
 }
