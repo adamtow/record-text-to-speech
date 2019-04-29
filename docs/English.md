@@ -1,10 +1,7 @@
 # Record Text to Speech
-Make audio recordings of Siri speaking inputted text.
+Record Text to Speech works with the Screen Recording feature of iOS to capture high-quality audio of Siri speaking aloud your inputted text.
 
 > [**Download Record Text to Speech from RoutineHub &raquo;**](https://routineHub.co/shortcut/2506)
-
-<span id="overview"></span>
-## Overview
 
 ## Table of Contents
 
@@ -14,12 +11,57 @@ Make audio recordings of Siri speaking inputted text.
 - [Getting Started](#getting-started)
 - [Interface](#interface)
 - [Editing Recordings](#editing-recordings)
+- [Share Menu](#sharing)
 - [Settings](#settings)
 - [Errors](#errors)
 - [Framework](#framework)
 - [Localization](#localization)
 - [Version History](#version-history)
 - [License](#license)
+
+<span id="overview"></span>
+## Overview
+Record Text to Speech makes it easy to create high-quality audio recordings of Siri speaking aloud text. The shortcut supports speaking text in the following languages and dialects:
+
+- Arabic (Saudi Arabia)
+- Chinese (China Mainland)
+- China (Hong Kong)
+- China (Taiwan)
+- Czech (Czechia)
+- Danish (Denmark)
+- Dutch (Belgium)
+- Dutch (Netherlands)
+- English (Australia)
+- English (Ireland)
+- English (South Africa)
+- English (United Kingdom)
+- English (United States)
+- Finnish (Finland)
+- French (Canada)
+- French (France)
+- German (Germany)
+- Greek (Greece)
+- Hebrew (Israel)
+- Hindi (India)
+- Hungarian (Hungary)
+- Indonesian (Indonesia)
+- Italian (Italy)
+- Japanese (Japan)
+- Korean (South Korea)
+- Norwegian (Norway)
+- Polish (Poland)
+- Portuguese (Brazil)
+- Portuguese (Portugal)
+- Romanian (Romania)
+- Russian (Russia)
+- Slovak (Slovakia)
+- Spanish (Mexico)
+- Spanish (Spain)
+- Swedish (Sweden)
+- Thai (Thailand)
+- Turkish (Turkey)
+
+After recording, you can trim the audio prior to saving the audio file in iCloud Drive. Share them via email, text message, and other services from the standard Share menu. 
 
 ***
 
@@ -109,6 +151,32 @@ Tap on a recording from the Recode Text to Speech Home screen to edit it.
 - **Trim Audio**: Display an editing window so you can trim the beginning and end of the audio clip.
 - **Delete Audio**: Delete the current audio recording from the `iCloud Drive/Shortcuts/Record Text to Speech` folder.
 - **Back**: Returns to the Return Text to Speech Home screen.
+
+***
+
+<span id="sharing"></span> 
+## Share Menu
+You can run the Record Text to Speech shortcut from the Share Menu on Text and Rich Text in one of two ways:
+
+### Selected Text
+
+1. Select text on a page. 
+2. Tap and choose **Share**. 
+3. Tap **Shortcuts**. 
+4. Choose **Record Text to Speech**.
+5. Follow the on-screen instructions to create an audio recording of the selected text. 
+
+### Share Menu
+
+1. Tap the **Share** icon. 
+2. Tap **Shortcuts**. 
+3. Choose **Record Text to Speech**. 
+4. Follow the on-screen instructions to create an audio recording of text rendition of the item being shared.
+
+_Note: iOS must switch to the Shortcuts app in order for Screen Recording to properly record the text to Speech audio._
+
+### From Other Shortcuts
+You can also invoke Record Text to Speech from other shortcuts by supplying it with a Text Action prior to calling the Run Shortcut Action. 
 
 ***
 
