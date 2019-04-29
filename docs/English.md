@@ -27,8 +27,8 @@ Record Text to Speech makes it easy to create high-quality audio recordings of S
 
 - Arabic (Saudi Arabia)
 - Chinese (China Mainland)
-- China (Hong Kong)
-- China (Taiwan)
+- Chinese (Hong Kong)
+- Chinese (Taiwan)
 - Czech (Czechia)
 - Danish (Denmark)
 - Dutch (Belgium)
