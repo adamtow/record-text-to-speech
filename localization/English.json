@@ -1,6 +1,6 @@
 {
 	"English": {
-		"alert_about": "A shortcut that works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking aloud your inputted text.",
+		"alert_about": "A shortcut that works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking text aloud.",
 		"alert_end": "\n1. Tap the red Screen Recording icon in the status bar.\n\n2. Tap Stop to end the recording.\n\n3. Wait for the notification that the screen recording has been saved to Photos.\n\n4. Tap OK to display a menu of options for your recording.",
 		"alert_end_title": "Stop Screen Recording",
 		"alert_start": "\n1. Tap OK and choose the language of the inputted text.\n\n2. Activate Screen Recording from Control Center. Ensure the microphone is turned off so your {{device}} does not record any background noise.\n\n3. Wait for the red Screen Recording icon to appear in the status bar before tapping Done.",
@@ -33,6 +33,7 @@
 		"menu_sound_quicklook": "Quick Look…",
 		"menu_sound_record": "Record Again…",
 		"menu_sound_save": "Save Audio…",
+		"menu_sound_share": "Share…",
 		"menu_sound_dontSave": "Don't Save",
 		"menu_settings_hints": "Display Hints",
 		"menu_settings_autoUpdate": "Check for Updates Automatically",
@@ -53,8 +54,8 @@
 		"prompt_filename": "Enter a filename",
 		"prompt_limit": "Enter the number of recent recordings to display at startup",
 		"prompt_main": "Record Text to Speech",
-		"prompt_text": "Enter the text you want to have spoken.",
+		"prompt_text": "Enter the text you want to have spoken aloud and recorded.",
 		"prompt_update": "An update for Record Text to Speech is available",
-		"prompt_welcome": "Record Text to Speech works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking aloud your inputted text."
+		"prompt_welcome": "Record Text to Speech works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking text aloud."
 	}
 }
