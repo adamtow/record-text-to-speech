@@ -59,7 +59,7 @@
 		"prompt_main": "Record Text to Speech",
 		"prompt_text": "Enter the text you want to have spoken aloud and recorded.",
 		"prompt_update": "An update for Record Text to Speech is available",
-		"prompt_verify": "Is the text-to-speech recording correct? Tap Yes to see a menu of options for your recording. Tap No to return to the main menu.",
+		"prompt_verify": "Is the text-to-speech recording correct?\n\nTap Yes to see a menu of options for your recording.\n\nTap No to return to the main menu.",
 		"prompt_welcome": "Record Text to Speech works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking text aloud."
 	}
 }
