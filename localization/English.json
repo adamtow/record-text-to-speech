@@ -1,7 +1,7 @@
 {
 	"English": {
 		"alert_about": "A shortcut that works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking text aloud.",
-		"alert_end": "\n1. Tap the red Screen Recording icon in the status bar.\n\n2. Tap Stop to end the recording.\n\n3. Wait for the notification that the screen recording has been saved to Photos.\n\n4. Tap OK to display a menu of options for your recording.",
+		"alert_end": "\n1. Tap the red Screen Recording icon in the status bar.\n\n2. Tap Stop to end the recording.\n\n3. Wait for the notification that the screen recording has been saved to Photos.\n\n4. Tap OK to verify the audio was recorded properly.",
 		"alert_end_title": "Stop Screen Recording",
 		"alert_start": "\n1. Tap OK and choose the language of the inputted text.\n\n2. Activate Screen Recording from Control Center. Ensure the microphone is turned off so your {{device}} does not record any background noise.\n\n3. Wait for the red Screen Recording icon to appear in the status bar before tapping Done.",
 		"alert_start_title": "Start Screen Recording",
@@ -9,7 +9,7 @@
 		"alert_screen_recording_title": "Is Screen Recording Enabled in Control Center?",
 		"alert_update_none": "You are running the latest version of Record Text to Speech",
 		"alert_update_none_title": "No Update Available",
-		"alert_verify": "Quick Look will not display the last video recorded. Review and confirm that this video contains the text-to-speech audio that you want to save.",
+		"alert_verify": "Quick Look will now display the last video recorded for your to review. Tap Done when finished.",
 		"error_media_404": "The recording could not be found. Did you forget to:\n\n 1. Start the screen recording?\n\n2. Stop the screen recording?",
 		"error_media_404_title": "Recording Not Found",
 		"error_offline": "You must be connected to the internet to check for updates.",
@@ -59,7 +59,7 @@
 		"prompt_main": "Record Text to Speech",
 		"prompt_text": "Enter the text you want to have spoken aloud and recorded.",
 		"prompt_update": "An update for Record Text to Speech is available",
-		"prompt_verify": "Is this the media file the text-to-speech recording that you want to save?",
+		"prompt_verify": "Is this the media file the text-to-speech recording that you want to save? Tap Yes to see a menu of options for your recording. Tap No to return to the main menu.",
 		"prompt_welcome": "Record Text to Speech works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking text aloud."
 	}
 }
