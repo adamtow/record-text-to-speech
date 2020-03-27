@@ -30,6 +30,7 @@
 		"menu_main_settings": "Settings…",
 		"menu_main_showAll": "Show All Recordings…",
 		"menu_main_sounds": "Recordings",
+		"menu_no": "No",
 		"menu_sound_quicklook": "Quick Look…",
 		"menu_sound_record": "Record Again…",
 		"menu_sound_save": "Save Audio…",
@@ -51,11 +52,13 @@
 		"menu_welcome_docs": "View Documentation…",
 		"menu_welcome_home": "Record Text to Speech Home…",
 		"menu_welcome_new": "New Recording…",
+		"menu_yes": "Yes",
 		"prompt_filename": "Enter a filename",
 		"prompt_limit": "Enter the number of recent recordings to display at startup",
 		"prompt_main": "Record Text to Speech",
 		"prompt_text": "Enter the text you want to have spoken aloud and recorded.",
 		"prompt_update": "An update for Record Text to Speech is available",
+		"prompt_verify": "Is this the media file the text-to-speech recording that you want to save?",
 		"prompt_welcome": "Record Text to Speech works with the Screen Recording feature of iOS to capture and manage high-quality audio of Siri speaking text aloud."
 	}
 }
