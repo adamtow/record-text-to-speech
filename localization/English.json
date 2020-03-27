@@ -9,7 +9,7 @@
 		"alert_screen_recording_title": "Is Screen Recording Enabled in Control Center?",
 		"alert_update_none": "You are running the latest version of Record Text to Speech",
 		"alert_update_none_title": "No Update Available",
-		"alert_verify": "Quick Look will now display the last video recorded for your to review. Tap Done when finished.",
+		"alert_verify": "Quick Look will now display the last video recorded for you to review. Tap Done when finished.",
 		"error_media_404": "The recording could not be found. Did you forget to:\n\n 1. Start the screen recording?\n\n2. Stop the screen recording?",
 		"error_media_404_title": "Recording Not Found",
 		"error_offline": "You must be connected to the internet to check for updates.",
